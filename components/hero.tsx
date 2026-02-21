@@ -36,7 +36,7 @@ export function Hero() {
             
             <p className="text-lg text-slate-400 mb-8 max-w-2xl mx-auto leading-relaxed">
               Sua empresa invisível no Google está deixando dinheiro na mesa. 
-              Criamos sites estratégicos em <strong className="text-slate-200 font-medium">São Paulo</strong> que posicionam sua marca e geram oportunidades de venda todos os dias.
+              Criamos sites estratégicos que posicionam sua marca e geram oportunidades de venda todos os dias.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
