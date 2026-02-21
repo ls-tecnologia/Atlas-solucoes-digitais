@@ -8,24 +8,24 @@ import Image from "next/image";
 const projects = [
   {
     id: 1,
-    title: "Advocacia Moderna",
-    niche: "Jurídico",
-    result: "+150% em contatos qualificados",
-    image: "https://picsum.photos/800/600?random=1",
+    title: "AC Clima",
+    niche: "Climatização",
+    result: "Presença digital profissional",
+    image: "/images/acclimape.webp",
   },
   {
     id: 2,
-    title: "Clínica Odontológica",
-    niche: "Saúde",
-    result: "Agenda lotada via Google Maps",
-    image: "https://picsum.photos/800/600?random=2",
+    title: "Mattos Elétrica e Automação",
+    niche: "Elétrica e Automação",
+    result: "Mais visibilidade digital e conquista de um novo contrato relevante.",
+    image: "/images/mattoseletrica.webp",
   },
   {
     id: 3,
-    title: "Construtora Elite",
-    niche: "Construção Civil",
-    result: "Vendas de imóveis de alto padrão",
-    image: "https://picsum.photos/800/600?random=3",
+    title: "VOERAPIDO.com",
+    niche: "Agência de turismo",
+    result: "Automação da triagem de orçamentos, otimizando o atendimento e aumentando a eficiência da equipe.",
+    image: "/images/voerapido.webp",
   },
 ];
 
