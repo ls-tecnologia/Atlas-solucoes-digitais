@@ -35,25 +35,25 @@ export default function RootLayout({
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     name: 'Atlas Soluções Digitais',
-    image: 'https://atlas.com.br/logo.png', // Placeholder
+    image: '/images/logo.svg', // Placeholder
     description: 'Agência especializada em criação de sites e SEO local em São Paulo.',
     address: {
       '@type': 'PostalAddress',
-      streetAddress: 'Av. Paulista, 1000',
-      addressLocality: 'São Paulo',
-      addressRegion: 'SP',
-      postalCode: '01310-100',
+      streetAddress: 'Rua Cruz Alta, 97',
+      addressLocality: 'Jaboatão dos Guararapes',
+      addressRegion: 'PE',
+      postalCode: '54470270',
       addressCountry: 'BR',
     },
-    telephone: '+5511999999999',
-    url: 'https://atlas.com.br',
+    telephone: '+5581960002151',
+    url: 'https://atlassolucoesdigitais.vercel.app',
     priceRange: '$$',
     openingHoursSpecification: [
       {
         '@type': 'OpeningHoursSpecification',
         dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
         opens: '09:00',
-        closes: '18:00',
+        closes: '21:00',
       },
     ],
   };
