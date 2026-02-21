@@ -18,7 +18,7 @@ export function CTASection() {
         </p>
         
         <Button size="lg" variant="glow" className="h-auto py-4 px-8 text-lg whitespace-normal text-center" asChild>
-          <Link href="https://wa.me/5511999999999" target="_blank">
+          <Link href="https://wa.me/5581960002151" target="_blank">
             <MessageCircle className="mr-2 w-5 h-5 shrink-0" />
             Solicitar Orçamento no WhatsApp
           </Link>
