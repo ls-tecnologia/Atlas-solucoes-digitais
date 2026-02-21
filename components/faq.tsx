@@ -10,11 +10,11 @@ import {
 const faqs = [
   {
     question: "Quanto tempo demora para o site ficar pronto?",
-    answer: "Nosso prazo médio é de 15 a 20 dias úteis após o recebimento de todo o material (textos e imagens). Trabalhamos com cronogramas ágeis para colocar sua empresa no ar o quanto antes.",
+    answer: "Nosso prazo médio é de 48 horas úteis após o recebimento de todo o material (textos e imagens). Trabalhamos com cronogramas ágeis para colocar sua empresa no ar o quanto antes.",
   },
   {
     question: "Eu preciso pagar mensalidade?",
-    answer: "Não cobramos mensalidade pelo desenvolvimento. O site é seu. Você terá apenas os custos anuais básicos de domínio (aprox. R$ 40/ano) e hospedagem, que orientamos como contratar diretamente em seu nome.",
+    answer: "Não cobramos mensalidade pelo desenvolvimento. O site é seu. Você terá apenas os custos anuais básicos de domínio (aprox. R$ 40/ano) e hospedagem gratuita.",
   },
   {
     question: "O site vai aparecer no Google?",
@@ -22,7 +22,8 @@ const faqs = [
   },
   {
     question: "Consigo alterar o conteúdo depois?",
-    answer: "Sim! Entregamos o site com um painel administrativo intuitivo onde você poderá alterar textos e imagens facilmente, sem depender de programador.",
+    answer: "Sim. Seu site é totalmente flexível e pode evoluir conforme sua empresa cresce.
+As alterações podem ser feitas sob demanda ou através de um plano de manutenção, que garante atualizações constantes e suporte prioritário.",
   },
   {
     question: "Vocês fazem o texto do site?",
