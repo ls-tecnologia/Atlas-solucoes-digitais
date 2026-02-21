@@ -124,7 +124,7 @@ export function Plans() {
                 className={`w-full ${!plan.highlight && "border-slate-700 hover:border-cyan-500/50 hover:text-cyan-400"}`}
                 asChild
               >
-                <Link href="https://wa.me/5511999999999" target="_blank">
+                <Link href="https://wa.me/5581960002151" target="_blank">
                   {plan.cta}
                 </Link>
               </Button>
