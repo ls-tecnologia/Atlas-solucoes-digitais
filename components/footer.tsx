@@ -11,7 +11,7 @@ export function Footer() {
             <div className="relative w-10 h-10 rounded-lg overflow-hidden shadow-lg shadow-cyan-900/20 group-hover:shadow-cyan-500/30 transition-all bg-slate-900">
               {/* Logo Image Placeholder */}
               <Image 
-                src="https://picsum.photos/40/40" 
+                src="/images/logo.svg" 
                 alt="Atlas Logo" 
                 fill 
                 className="object-cover"
