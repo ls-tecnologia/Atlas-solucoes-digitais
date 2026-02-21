@@ -22,8 +22,7 @@ const faqs = [
   },
   {
     question: "Consigo alterar o conteúdo depois?",
-    answer: "Sim. Seu site é totalmente flexível e pode evoluir conforme sua empresa cresce.
-As alterações podem ser feitas sob demanda ou através de um plano de manutenção, que garante atualizações constantes e suporte prioritário.",
+    answer: "Sim. Seu site é totalmente flexível e pode evoluir conforme sua empresa cresce. As alterações podem ser feitas sob demanda ou através de um plano de manutenção, que garante atualizações constantes e suporte prioritário.",
   },
   {
     question: "Vocês fazem o texto do site?",
