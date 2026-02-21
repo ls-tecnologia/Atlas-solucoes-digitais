@@ -48,12 +48,12 @@ export function Footer() {
             <h3 className="text-white font-bold mb-4">Contato</h3>
             <ul className="space-y-2 text-sm text-slate-400">
               <li>
-                <a href="https://wa.me/5511999999999" className="hover:text-cyan-400 transition-colors">
-                  (11) 99999-9999
+                <a href="https://wa.me/5581960002151" className="hover:text-cyan-400 transition-colors">
+                  (81)960002151
                 </a>
               </li>
-              <li>contato@atlas.com.br</li>
-              <li>São Paulo, SP</li>
+              <li>comercial@atlassolucoes.vercel.app</li>
+              <li>Recife, PE</li>
             </ul>
           </div>
           <div>
