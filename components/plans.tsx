@@ -150,7 +150,7 @@ export function Plans() {
             </p>
             
             <Button size="lg" variant="outline" className="group border-cyan-500/30 hover:bg-cyan-950/30 hover:text-cyan-400 hover:border-cyan-500/50 h-auto py-4 whitespace-normal text-center" asChild>
-              <Link href="https://wa.me/5511999999999" target="_blank">
+              <Link href="https://wa.me/5581960002151" target="_blank">
                 <MessageCircle className="mr-2 w-5 h-5 group-hover:text-green-400 transition-colors shrink-0" />
                 Conversar no WhatsApp
                 <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform shrink-0" />
