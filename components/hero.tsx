@@ -41,7 +41,7 @@ export function Hero() {
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <Button size="lg" variant="glow" className="w-full sm:w-auto text-base" asChild>
-                <Link href="https://wa.me/5511999999999" target="_blank">
+                <Link href="https://wa.me/5581960002151" target="_blank">
                   Quero meu site estratégico
                 </Link>
               </Button>
