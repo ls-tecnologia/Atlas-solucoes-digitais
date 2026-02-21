@@ -4,21 +4,19 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Ricardo Silva",
-    role: "Sócio, Silva & Associados",
-    content: "Depois do site novo, paramos de depender apenas de indicações. Hoje recebemos contatos diários pelo Google.",
+    name: "AC Clima",
+    content: "Super dedicado, atencioso e honesto em seu trabalho, já indiquei e continuo indicando seu trabalho",
     stars: 5,
   },
   {
-    name: "Amanda Oliveira",
-    role: "Dra. Estética Avançada",
-    content: "Profissionalismo impecável. A Atlas entendeu exatamente o posicionamento premium que eu queria passar.",
+    name: "GM Climatização e Elétrica",
+    content: "Ótimo serviço! Site bem feito, rápido e exatamente como eu precisava. Atendimento claro e eficiente. Recomendo.",
     stars: 5,
   },
   {
-    name: "Carlos Mendes",
-    role: "Diretor, Mendes Engenharia",
-    content: "O investimento se pagou muito rápido. O site passa muita credibilidade para nossos clientes corporativos.",
+    name: "Evaldeir Ferreira",
+    role: "Climar Soluções",
+    content: "Muito prestativo e paciente, atendeu todas minhas necessidades. Presta um bom serviço e passa confiança para o cliente!",
     stars: 5,
   },
 ];
