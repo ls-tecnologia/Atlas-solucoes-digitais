@@ -17,7 +17,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: 'Atlas Soluções Digitais | Criação de Sites e SEO Local',
   description: 'Agência digital em Recife especializada em criação de sites estratégicos e SEO para negócios locais. Aumente suas vendas com a Atlas.',
-  keywords: ['criação de sites São Paulo', 'agência digital SP', 'SEO local', 'sites estratégicos', 'marketing digital São Paulo'],
+  keywords: ['criação de sites Recife', 'agência digital SP', 'SEO local', 'sites estratégicos', 'marketing digital Recife'],
   openGraph: {
     title: 'Atlas Soluções Digitais | Sites que Vendem',
     description: 'Transforme visitantes em clientes com sites de alta conversão.',
