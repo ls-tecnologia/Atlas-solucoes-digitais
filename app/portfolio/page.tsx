@@ -51,7 +51,38 @@ const portfolioItems = [
       "Automação da triagem de orçamentos, otimizando o atendimento e aumentando a eficiência da equipe.",
     image: "/images/voerapido.webp",
     tags: ["Landing Page", "Sistema de Orçamento", "Mobile First"],
-    url: "https://voerapido.com",
+    url: "https://voerapido.vercel.app",
+    status: "em_andamento",
+  },
+  {
+    id: 6,
+    title: "FS Climatização",
+    niche: "Climatização e Ar-Condicionado",
+    result:
+      "Presença digital profissional com foco em conversão de orçamentos e atendimento para Recife e região.",
+    image: "/images/fs-atlas.webp",
+    tags: ["Landing Page", "Sistema de Orçamento", "Mobile First"],
+    url: "https://fsclimatizacaope.com.br",
+  },
+  {
+    id: 7,
+    title: "Eduardo Climatização",
+    niche: "Climatização e Ar-Condicionado",
+    result:
+      "Landing page focada em conversão com agendamento direto pelo WhatsApp e credenciamento Midea em destaque.",
+    image: "/images/eduardo-atlas.webp",
+    tags: ["Landing Page", "WhatsApp Integration", "Mobile First"],
+    url: "https://eduardoclimatizacao.com.br",
+  },
+  {
+    id: 8,
+    title: "VF Climatização",
+    niche: "Climatização e Ar-Condicionado",
+    result:
+      "Site institucional com foco em autoridade e conversão, destacando diferenciais de qualidade e orçamento rápido.",
+    image: "/images/vf-atlas.webp",
+    tags: ["Landing Page", "Orçamento Rápido", "Mobile First"],
+    url: "https://xn--climatizaovf-bcb9c.com.br/",
   },
 ];
 
@@ -93,6 +124,13 @@ export default function PortfolioPage() {
                       fill
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
+                    {item.status === "em_andamento" && (
+                      <div className="absolute inset-0 bg-black/60 flex items-center justify-center z-20">
+                        <span className="text-white font-semibold text-lg tracking-wide">
+                          Em Andamento
+                        </span>
+                      </div>
+                    )}
                   </div>
                 </Link>
 
